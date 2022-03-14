@@ -1,0 +1,10 @@
+.Image {
+    border: solid black 1px;
+    padding: 5px;
+    text-align: center;
+    display: inline-block;
+}
+
+.Image input {
+    cursor: pointer;
+}
